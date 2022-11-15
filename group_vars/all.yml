@@ -1,0 +1,7 @@
+vlans:
+  - id: 10
+    name: STORAGE
+  - id: 20
+    name: SERVERS
+  - id: 30
+    name: USERS
